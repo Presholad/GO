@@ -30,7 +30,7 @@ func areaOfSquare(l, b int64) (int64, int64) {
 	return area, perimeter
 }
 
-func main() {
+/*func main() {
 	printOutDate()
 	waitForIt(joinTwoStrings("Hi", " there"))
 	var Length int64 = 5
@@ -40,4 +40,4 @@ func main() {
 
 	fmt.Println("The area of the square is", area, "The perimeter of the square is", perimeter)
 
-}
+}*/
